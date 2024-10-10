@@ -10,3 +10,6 @@
 ### 运行方式
 
 运行get720Image.py
+
+### 备注
+请自行下载对应的chrome内核及chromedriver并放置到resources目录下
